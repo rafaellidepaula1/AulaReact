@@ -1,0 +1,24 @@
+body{
+    margin : 0;
+    padding: 0;
+}
+
+h1
+{
+    background-color: rgb(94, 44, 121);
+    color : rgb(254, 247, 255);
+    text-align: center;
+    margin : 0;
+    padding: 20px;
+}
+
+.card
+{
+    width: 800px;
+    margin : 10px auto;
+    padding: 10px;
+    border : 1px solid blueviolet;
+    border-radius: 10px;
+    box-shadow: 0 10px 10px rgb(211, 149, 219);
+
+}
